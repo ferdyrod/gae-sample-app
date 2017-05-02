@@ -1,0 +1,14 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.theme-showcase .container {
+    width: auto;
+}
+
+a#username {
+    color: white;
+    padding-right: 5px;
+    text-decoration: none;
+}
