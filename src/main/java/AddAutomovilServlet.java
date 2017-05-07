@@ -35,7 +35,7 @@ public class AddAutomovilServlet extends HttpServlet {
             response.sendRedirect(userService.createLoginURL(request.getRequestURI()));
         }
 
-        response.sendRedirect(request.getRequestURI());
+        response.sendRedirect("/home.jsp");
     }
 
 }

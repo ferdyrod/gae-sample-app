@@ -29,11 +29,4 @@ public class AuthServlet extends HttpServlet {
         }
     }
 
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-//        UserService userService = UserServiceFactory.getUserService();
-//        if (userService.isUserLoggedIn()) {
-//            User user = userService.getCurrentUser();
-//            request.getSession().setAttribute("user", user.getNickname());
-//        }
-    }
 }

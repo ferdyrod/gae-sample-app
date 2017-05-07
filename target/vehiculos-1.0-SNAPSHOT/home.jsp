@@ -25,7 +25,7 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="stylesheets/main.css">
-    <title>VideoJuegos Info</title>
+    <title>Vehiculos</title>
 </head>
 <body>
 
@@ -277,19 +277,19 @@
                         <div class="form-group">
                             <label for="moto_make" class="col-sm-2 control-label">Marca</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="moto_make" name="make" placeholder="BWM">
+                                <input type="text" class="form-control" id="moto_make" name="make" placeholder="YAMAHA">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="moto_model" class="col-sm-2 control-label">Modelo</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="moto_model" name="model" placeholder="M3">
+                                <input type="text" class="form-control" id="moto_model" name="model" placeholder="Z502">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="moto_year" class="col-sm-2 control-label">Año</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="moto_year" name="year" placeholder="2015">
+                                <input type="text" class="form-control" id="moto_year" name="year" placeholder="2017">
                             </div>
                         </div>
                     </div>
@@ -314,19 +314,19 @@
                         <div class="form-group">
                             <label for="bike_make" class="col-sm-2 control-label">Marca</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="bike_make" name="make" placeholder="BWM">
+                                <input type="text" class="form-control" id="bike_make" name="make" placeholder="Ironhorse">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="bike_model" class="col-sm-2 control-label">Modelo</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="bike_model" name="model" placeholder="M3">
+                                <input type="text" class="form-control" id="bike_model" name="model" placeholder="SM-2013">
                             </div>
                         </div>
                         <div class="form-group">
                             <label for="bike_year" class="col-sm-2 control-label">Año</label>
                             <div class="col-sm-10">
-                                <input type="text" class="form-control" id="bike_year" name="year" placeholder="2015">
+                                <input type="text" class="form-control" id="bike_year" name="year" placeholder="2016">
                             </div>
                         </div>
                     </div>
